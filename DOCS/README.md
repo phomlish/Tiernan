@@ -45,9 +45,9 @@ ok      tiernan 0.234s
 # TESTING WITH POSTMAN
 
 open the postman file Tiernan.postman_collection.json in postman
-make sure the app is running and try the requests:
-    Ping
-    Sysinfo
+make sure the app is running and try the requests:\
+    Ping\
+    Sysinfo\
 
 # App In Action
 
