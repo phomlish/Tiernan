@@ -7,10 +7,10 @@ To clone the git repository\
 
 Navigate into tierman directory\
 make sure the packages are up to date\
-    go mod tidy\
+    go mod tidy
 
 To build the application tiernan.exe\
-    go make \
+    go make
 
 # INSTALL
 
@@ -23,9 +23,9 @@ The installer package will install the application for WIndows.
 The application will start-on-boot.
 
 Program files are installed at 
-    C:\Program Files\Tiernan
-    C:\Program Files\Tiernan\tiernan.exe
-    C:\Program Files\Tiernan\unins000.dat
+    C:\Program Files\Tiernan\
+    C:\Program Files\Tiernan\tiernan.exe\
+    C:\Program Files\Tiernan\unins000.dat\
     C:\Program Files\Tiernan\unins000.exe
 
 Auto start is enabled with registry entry at 
