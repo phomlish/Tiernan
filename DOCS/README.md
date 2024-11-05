@@ -55,6 +55,6 @@ Although I didn't make an annimation, I did put some screenshots in the 'App In 
 
 # Additional Notes
 
-Ideas I had while devloping are in DOCS/TODO.md
+Ideas I had while devloping are in DOCS/TODO.md\
 I had questions about the implementation and put the questions and how I handled them in DOCS/Decisions.md
 
