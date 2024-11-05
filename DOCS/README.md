@@ -4,7 +4,7 @@ I use VS Code
 
 To clone the git repository\
     git clone https://github.com/phomlish/Tiernan.git\
-\
+
 Navigate into tierman directory\
 make sure the packages are up to date\
     go mod tidy\
