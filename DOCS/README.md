@@ -2,15 +2,15 @@ I use VS Code
 
 # BUILD
 
-To clone the git repository
-    git clone https://github.com/phomlish/Tiernan.git
+To clone the git repository\
+    git clone https://github.com/phomlish/Tiernan.git\
+\
+Navigate into tierman directory\
+make sure the packages are up to date\
+    go mod tidy\
 
-Navigate into tierman directory
-make sure the packages are up to date
-    go mod tidy
-
-To build the application tiernan.exe
-    go make 
+To build the application tiernan.exe\
+    go make \
 
 # INSTALL
 
