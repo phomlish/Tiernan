@@ -1,3 +1,5 @@
+Assignment: https://gist.github.com/greenido/c725d654b2d4acbf90c46c1bda96a950
+
 I use VS Code
 
 # BUILD
@@ -13,11 +15,11 @@ To build the application tiernan.exe\
     go make
 
 # INSTALL
-
+I used Inno windows installer. 
 install the package creator from https://jrsoftware.org/isinfo.php
 run INNO and open SUPPORT/t inno setup.iss
-press PLAY in INNO and follow the prompts
-Ignore the Support/Output directory created by the INNO installer
+press Compile and then execute Support/Output/mysetup.exe OR press PLAY in INNO
+    follow the prompts
 
 The installer package will install the application for WIndows. 
 The application will start-on-boot.

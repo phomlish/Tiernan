@@ -13,7 +13,7 @@
 
 4) for SystemInfoResult.IPAddress I returned ALL ip addresses for my host
 
-5) My installer , a more elegant solution would be to install as a service
+5) The installer was INNO, a more elegant solution would be to install as a service
 
 6) in the interest of time, 
   I didn't document how I created the install package, but I did mention some details about the end result in the README.md
