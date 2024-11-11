@@ -5,7 +5,7 @@ I kept it simple. Normally I would create packages to keep things organized. IE:
 
 # How you would scale this for a large organization
 
-As application doesn't write or read anything to a database there would be no thread issues so a simple deployment of multiple instances and a load balancer would be appropriate. Did I mentionthat I'm a big fan of kubernetes.
+As application doesn't write or read anything to a database or have potential for commands to get stuck, there would be no thread issues. A simple deployment of multiple instances and a load balancer would be appropriate. Did I mentionthat I'm a big fan of kubernetes.
 
 # Security considerations
 
